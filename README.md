@@ -10,5 +10,4 @@ Mini app to test Apple new CoreML framework, for image recognition. It replicate
 - Identified trade-offs between various Machine Learning models (in terms of precision, size, etc.) 
 
 # More details:
-
-![Object recognition](https://github.com/fschaus/HotDogOrNot/blob/master/IMG_1345.png)
+[Image recognition](https://github.com/fschaus/HotDogOrNot/blob/master/IMG_1345.png)

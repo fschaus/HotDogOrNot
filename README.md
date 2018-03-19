@@ -11,4 +11,4 @@ Mini app to test Apple new CoreML framework, for image recognition. It replicate
 
 # More details:
 ![](https://github.com/fschaus/HotDogOrNot/blob/master/IMG_1345_resized.png)
-[Image recognition](https://github.com/fschaus/HotDogOrNot/blob/master/IMG_1345.png)
+![](https://github.com/fschaus/HotDogOrNot/blob/master/IMG_1345_resized.png)
